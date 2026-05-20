@@ -208,6 +208,19 @@ img {
 .nav__link:hover{
    color: var(--first-color);
 }
+
+.nav__actions{
+   display: flex;
+   align-items: center;
+   column-gap: 1rem;
+}
+
+.nav__actions i{
+   font-size: 1.25rem;
+   color: var(--title-color);
+   cursor: pointer;
+   transition: color .4;
+}
 /* Add shadow header */
 
 
