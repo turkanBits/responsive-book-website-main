@@ -221,6 +221,12 @@ img {
    cursor: pointer;
    transition: color .4;
 }
+
+.nav__actions i:hover{
+  color: var(--first-color);
+}
+
+
 /* Add shadow header */
 
 
