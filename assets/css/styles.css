@@ -247,6 +247,15 @@ img {
    transition: top .4s;
 }
 
+.search__form{
+   display: flex;
+   align-items: center;
+   column-gap: .5rem;
+   background-color: var(--container-color);
+   border: 2px solid var(--border-color);
+   padding-inline: 1rem;
+}
+
 /* Show search */
 
 
