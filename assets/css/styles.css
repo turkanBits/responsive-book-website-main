@@ -256,6 +256,20 @@ img {
    padding-inline: 1rem;
 }
 
+.search__icon{
+   font-size: 1.25rem;
+   color: var(--title-color);
+}
+
+.search__input{
+   width: 100%;
+   padding-block: 1rem;
+   background-color: var(--container-color);
+   color: var(--text-color);
+}
+
+
+
 /* Show search */
 
 
